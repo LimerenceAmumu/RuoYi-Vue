@@ -1,4 +1,5 @@
-## 本项目仅用于各人学习，原项目地址
+## 本项目仅用于各人学习，原项目地址[RuoYi](https://gitee.com/y_project/RuoYi-Vue)
+
 
 ## 平台简介
 
